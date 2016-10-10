@@ -1,0 +1,14 @@
+.bloque {
+	width: 235px;
+	border: 2px solid #EB8459;
+	padding: 10px;
+}
+
+.bloque h3 {
+	font-size:20px;
+	margin:2px ;
+}
+
+.bloque p {
+	font-size: 20px;
+}
